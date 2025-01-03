@@ -36,7 +36,7 @@
     "author": "Mr Alpha",
     "author_img": "https://i.ibb.co.com/z8YKyJC/IMG-4699.jpg",
     "title": "The Secrets of Successful Magical Hand",
-    "reading_time": "6 min read",
+    "reading_time": 6,
     "posted_dates": "2025-01-01",
     "hashtags": ["#Startups", "#Business", "#Entrepreneurship"]
   },
@@ -46,7 +46,7 @@
     "author": "Sophia Davis",
     "author_img": "https://i.ibb.co.com/z2MzfYF/IMG-4168.jpg",
     "title": "Understanding Blockchain Technology",
-    "reading_time": "8 min read",
+    "reading_time": 12,
     "posted_dates": "2025-01-02",
     "hashtags": ["#Blockchain", "#Cryptocurrency", "#Tech"]
   }
