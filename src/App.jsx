@@ -16,7 +16,7 @@ function App() {
       // console.log(newBookMarks)
   }
 
-  const handleMarkAsRead = (time)=>{
+  const handleMarkAsRead = (id,time)=>{
     // console.log(time);
     // console.log('time dibo chude')
     // setReadingTime(readingTime + time);
@@ -24,7 +24,12 @@ function App() {
     const newReadingTime = readingTime + time;
     setReadingTime(newReadingTime);
     // console.log(newReadingTime);
+    // console.log(id);
+    const remainingBookMarks = bookMarks.filter(bookMark=>bookMark.id !==id);
+    setBookMarks(remainingBookMarks);
+
   }
+  // remove the read blog from book mark
 
   return (
     <>

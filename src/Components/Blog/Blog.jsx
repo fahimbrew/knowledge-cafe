@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { FaRegBookmark } from "react-icons/fa";
 const Blog = ({blog,handleAddToBookMark,handleMarkAsRead}) => {
     // console.log(blog)
-    const {title,cover,reading_time,author_img,author,posted_dates,hashtags} = blog 
+    const {title,cover,reading_time,author_img,author,posted_dates,hashtags,id} = blog 
     return (
         <div className='border-b-2 md:w-9/12 my-7'>
             <div className='md:full h-[300px]'>
@@ -29,7 +29,7 @@ const Blog = ({blog,handleAddToBookMark,handleMarkAsRead}) => {
             <h3 className='text-4xl font-semibold p-3'>{title}</h3>
             <div className='p-2'>
                 <p className='space-x-1'>{hashtags.map((hashtag,index)=><span key={index}>{hashtag}</span>)}</p>
-                <p><button onClick={()=>handleMarkAsRead(reading_time)} className='underline text-blue-500'>Mark as read</button></p>
+                <p><button onClick={()=>handleMarkAsRead(id,reading_time)} className='underline text-blue-500'>Mark as read</button></p>
             </div>
         </div>
     );
