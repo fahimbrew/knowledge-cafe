@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co.com/NSn2pRk/sassy-daring-cool-redhead-girl-with-curls-showing-okay-excellent-gesture-smiling-excited-assure-part.jpg",
+    "author": "Fahim Aziz",
+    "author_img": "https://i.ibb.co.com/C6zmXvv/IMG-4271.jpg",
+    "title": "Exploring the Future of AI",
+    "reading_time": 10,
+    "posted_dates": "2025-01-01",
+    "hashtags": ["#AI", "#Technology", "#Innovation"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co.com/fMCVKQS/sandalina.jpg",
+    "author": "Mim Liza",
+    "author_img": "https://i.ibb.co.com/g48zKbh/1bac36a9-e1bc-443f-9fe5-2ab2d1a4269c.jpg",
+    "title": "Beauty Can not rely on products",
+    "reading_time": 8,
+    "posted_dates": "2025-01-02",
+    "hashtags": ["#innerSoul", "#Productivity", "#Lifestyle"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co.com/zfg8MGh/storm.jpg",
+    "author": "Mr Parvez",
+    "author_img": "https://i.ibb.co.com/Km31fbg/IMG-2874.jpg",
+    "title": "A Beginner's Guide to Survive",
+    "reading_time": 5,
+    "posted_dates": "2025-01-03",
+    "hashtags": [ "#Hobby", "#Environment"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co.com/jVHsdZt/hand.jpg",
+    "author": "Mr Alpha",
+    "author_img": "https://i.ibb.co.com/z8YKyJC/IMG-4699.jpg",
+    "title": "The Secrets of Successful Magical Hand",
+    "reading_time": "6 min read",
+    "posted_dates": "2025-01-01",
+    "hashtags": ["#Startups", "#Business", "#Entrepreneurship"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co.com/C1PPBBG/matthew-tran-AHb-Plmp-QKJA-unsplash.jpg",
+    "author": "Sophia Davis",
+    "author_img": "https://i.ibb.co.com/z2MzfYF/IMG-4168.jpg",
+    "title": "Understanding Blockchain Technology",
+    "reading_time": "8 min read",
+    "posted_dates": "2025-01-02",
+    "hashtags": ["#Blockchain", "#Cryptocurrency", "#Tech"]
+  }
+]
